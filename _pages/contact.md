@@ -11,7 +11,11 @@ My contact information is below, including email and other social media web serv
 * Twitter: [chenyangsu](https://twitter.com/chenyangsu)
 * LinkedIn: [chen-yang-su](https://www.linkedin.com/in/chen-yang-su/)
 * Github: [chenyangsu](https://github.com/chenyangsu)
-# * UC-Berkeley: [Berkeley Institute for Data Science](https://bids.berkeley.edu/people/r-stuart-geiger), [School of Information](http://www.ischool.berkeley.edu/people/students/rstuartgeiger)
+
+<!-- 
+* UC-Berkeley: [Berkeley Institute for Data Science](https://bids.berkeley.edu/people/r-stuart-geiger), [School of Information](http://www.ischool.berkeley.edu/people/students/rstuartgeiger) 
+* McGill: [McGill Department of Human Genetics/Computer Science]
+-->
 
 
 
