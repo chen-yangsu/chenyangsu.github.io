@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae [PDF]](http://chenyangsu.github.io./files/chenyangsu_cv_2020.pdf)]
+[Curriculum Vitae [PDF]](http://chenyangsu.github.io./files/chenyangsu_cv_2020.pdf)
 
 Education
 ======
