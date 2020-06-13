@@ -15,36 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### Technical Reports
 
-# Technical Reports
----
-title: "Investigating the Role of Classical Cadherin Isoforms in the Control of Collective Cell Migration"
-collection: technical reports
-permalink: /publications/2018-12-07-biol466
-excerpt: 'This paper is about testing.'
-date: 2018-12-07
-# venue: 'Testing Studies'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Su, C.-Y. and Hayer, A., Investigating the Role of Classical Cadherin Isoforms in the Control of Collective Cell Migration, BIOL 466: Independent Research Project 1, McGill University, Montreal, QC, Canada, December 2018'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://chenyangsu.github.io/files/paper1.pdf)
-
-
----
-layout: page
-permalink: /publications/index.html
-title: Publications
-tags: [publications]
----
-
-### Published papers
-
-**Exploring the structure of a real-time, arbitrary neural artistic stylization network**
+**Investigating the Role of Classical Cadherin Isoforms in the Control of Collective Cell Migration**
 [(pdf)](https://arxiv.org/pdf/1705.06830.pdf)  
-Ghiasi, G., Lee, H., Kudlur, M., Dumoulin, V. and Shlens, J.  
-BMVC, 2017
+Su, C.-Y. and Hayer, A., Investigating the Role of Classical Cadherin Isoforms in the Control of Collective Cell Migration, BIOL 466: Independent Research Project 1, McGill University, Montreal, QC, Canada, December 2018
 
 **A Learned Representation For Artistic Style**
 [(code)](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
