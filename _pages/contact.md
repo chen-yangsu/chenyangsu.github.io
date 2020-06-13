@@ -15,6 +15,12 @@ My contact information is below, including email and other social media web serv
 <!-- 
 * UC-Berkeley: [Berkeley Institute for Data Science](https://bids.berkeley.edu/people/r-stuart-geiger), [School of Information](http://www.ischool.berkeley.edu/people/students/rstuartgeiger) 
 * McGill: [McGill Department of Human Genetics/Computer Science]
+
+
+Office:
+Tel:
+Mailing address:
+
 -->
 
 
