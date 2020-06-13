@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Technical Reports
+# Technical Reports
 
 **Investigating the Role of Classical Cadherin Isoforms in the Control of Collective Cell Migration**
 [(pdf)](https://arxiv.org/pdf/1705.06830.pdf)  
