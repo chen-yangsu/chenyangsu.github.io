@@ -25,12 +25,6 @@ My current interests are in:
 * Statistical Genetics
 * High-throughout genomics
 
-Other Interests
-------
-* Cooking 
-* Music
-* Fitness
-
 # News
 <!--
 * **July 2020:** Volunteering at ICML 2020
