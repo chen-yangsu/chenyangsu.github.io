@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Chen-Yang Su"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae [PDF]](http://chenyangsu.github.io./files/chenyangsu_cv_2020.pdf)]
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Biology, McGill University, June 2020
+* M.S. in undecided, McGill University, 2022 (expected)
+* Ph.D in a good subject, A Good University, 2026 (expected)
 
 Work experience
 ======
