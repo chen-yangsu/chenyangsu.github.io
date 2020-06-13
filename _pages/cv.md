@@ -16,7 +16,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Biology, McGill University, June 2020
+* B.S. in [Computer Science and Biology](https://www.mcgill.ca/study/2020-2021/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science-and-biology), [McGill University](https://www.mcgill.ca/), June 2020
 * M.S. in undecided, McGill University, 2022 (expected)
 * Ph.D in a good subject, Hopefully A Good University, 2026 (expected)
 
@@ -33,11 +33,11 @@ Research Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 -->  
-* **Feb 2020 - Present: Research Intern at Mila**  
+* **Feb 2020 - Present: Research Intern at [Mila](https://mila.quebec/en)**  
   * *Dr. [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Department of Computer Science, McGill University Faculty of Science, Montreal, QC*
   * Working with Postdoc Researcher Dr. [Wonseok Jeon](https://mila.quebec/en/person/wonseok-jeon/) on single agent Inverse Reinforcement Learning (inverse optimal control) and imitation learning applied to medical datasets.
   
-* **Jan 2020 – April 2020: Research Intern** 
+* **Jan 2020 – Apr 2020: Research Intern** 
   * *Dr. [Simon Gravel](http://simongravel.lab.mcgill.ca/Home.html), Department of Human Genetics, McGill University Faculty of Science, Montreal, QC*
   * Combined high replicate genetic simulation with performant composite likelihood inference on admixture tract distributions.
   * Performed modelling with tracts software and coalescent simulations with msprime to infer the history of admixed populations
