@@ -75,6 +75,12 @@ Languages
 * Fluent: English, Chinese Mandarin, Taiwanese
 * Basic: Français 
 
+Other Interests
+======
+* Cooking 
+* Music
+* Fitness
+
 <!--
 Publications
 ======
