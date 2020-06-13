@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Technical Reports
+## Technical Reports
 
 **Inferring the History of Admixed Populations**
 [(pdf)](http://chenyangsu.github.io/files/2020-04-17-comp401.pdf)  
