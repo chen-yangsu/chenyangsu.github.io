@@ -19,7 +19,7 @@ author_profile: true
 
 **Inferring the History of Admixed Populations**
 [(pdf)](http://chenyangsu.github.io/files/2020-04-17-comp401.pdf)  
-Su, C.-Y., Kryukov, I., and Gravel, S.,, COMP 401: Project in Biology and Computer Science, McGill University, Montreal, QC, Canada, April 2020
+Su, C.-Y., Kryukov, I., and Gravel, S., COMP 401: Project in Biology and Computer Science, McGill University, Montreal, QC, Canada, April 2020
 
 **Regulation of Collective Endothelial Cell Migration by N-cadherin**
 [(pdf)](http://chenyangsu.github.io/files/2019-04-13-biol467.pdf)  
