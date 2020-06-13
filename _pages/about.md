@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I recently graduated with a BSc in Computer Science and Biology at McGill University. [[Curriculum Vitae](http://chenyangsu.github.io./files/chenyangsu_cv_2020.pdf)]
+- I recently graduated with a BSc in Computer Science and Biology at McGill University. 
 
 Background
 ======
