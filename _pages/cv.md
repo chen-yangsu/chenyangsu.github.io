@@ -9,17 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- 
 [Curriculum Vitae [PDF]](http://chenyangsu.github.io./files/chenyangsu_cv_2020.pdf)
 
-# General Overview
 
+# General Overview
+-->
 
 Education
 ======
 * B.S. in [Computer Science and Biology](https://www.mcgill.ca/study/2020-2021/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science-and-biology), [McGill University](https://www.mcgill.ca/), June 2020
-* M.S. in undecided, McGill University, 2022 (expected)
+<!--
+* M.S. in Human Genetics, McGill University, 2022 (expected)
 * Ph.D in a good subject, Hopefully A Good University, 2026 (expected)
-
+-->
 Research Experience
 ======
 <!--
