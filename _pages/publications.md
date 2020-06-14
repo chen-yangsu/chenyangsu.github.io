@@ -17,11 +17,11 @@ author_profile: true
 
 ## Technical Reports
 
-**Inferring the History of Admixed Populations**
+**Inferring the History of Admixed Populations**  
 COMP 401: Project in Biology and Computer Science, McGill University, Montreal, QC, Canada, April 2020
 
-**Regulation of Collective Endothelial Cell Migration by N-cadherin**
+**Regulation of Collective Endothelial Cell Migration by N-cadherin**  
 BIOL 467: Independent Research Project 2, McGill University, Montreal, QC, Canada, April 2019
 
-**Investigating the Role of Classical Cadherin Isoforms in the Control of Collective Cell Migration**
+**Investigating the Role of Classical Cadherin Isoforms in the Control of Collective Cell Migration**  
 BIOL 466: Independent Research Project 1, McGill University, Montreal, QC, Canada, December 2018
