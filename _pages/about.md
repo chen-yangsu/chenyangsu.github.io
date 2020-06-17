@@ -26,9 +26,7 @@ My current interests are in:
 * High-throughout genomics
 
 # News
-<!--
-* **July 2020:** Volunteering at ICML 2020
--->
+* **July 2020:** Volunteering at the Thirty-seventh International Conference on Machine Learning (ICML 2020)
 * **June 2020:** Graduated with a BSc in Computer Science and Biology at McGill University
 * **May 2020:** I begin my full-time summer internship in Professor Joelle Pineau's lab working with Dr. Wonseok Jeon on applications of     inverse reinforcement learning and imitation learning.
 * **May 2020:** Accepted into the MSc Computer Science program at McGill!
