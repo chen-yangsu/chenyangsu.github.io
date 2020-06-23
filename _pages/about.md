@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated with a BSc in [Computer Science and Biology](https://www.mcgill.ca/study/2020-2021/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science-and-biology) at McGill University and will begin my Masters at McGill in Fall 2020.
+I recently graduated with a BSc in [Computer Science and Biology](https://www.mcgill.ca/study/2020-2021/faculties/science/undergraduate/programs/bachelor-science-bsc-major-computer-science-and-biology) at McGill University and will begin my Masters in Computer Science at McGill in Fall 2020 supervised by [Brent Richards](https://www.mcgill.ca/genepi/) and [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/).
 Currently, I am working as a research intern over the summer at [Mila](https://mila.quebec/en).
 
 Background
