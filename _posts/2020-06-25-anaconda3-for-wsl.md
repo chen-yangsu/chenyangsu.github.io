@@ -9,7 +9,7 @@ tags:
 Installing Anaconda3 on Ubuntu
 ======
 1. Download Anaconda
-- Go to https://www.anaconda.com/products/individual
+- Go to [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individua)
 - Copy the link address for Linux Python 3.7 64-Bit (x86) Installer
 - Open Ubuntu and type ```cd .```  
 - Then download Anaconda:    
@@ -25,11 +25,3 @@ Installing Anaconda3 on Ubuntu
 3. Restart Ubuntu
 
 For futher [reference](https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd)
-<!--
-Testing out heading for future
-======
-
-Testing out another heading for future
-------
-
--->
