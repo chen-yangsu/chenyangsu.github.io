@@ -24,6 +24,7 @@ My current interests are in:
 * Applications of AI and Machine Learning to improve health care and clinical decision-making
 * Statistical Genetics
 * High-throughout genomics
+* Collective Cell Migration
 
 # News
 * **July 2020:** Volunteering at the Thirty-seventh International Conference on Machine Learning (ICML 2020)
