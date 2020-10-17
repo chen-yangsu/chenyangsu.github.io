@@ -86,7 +86,7 @@ author:
   location         : "Montréal, Québec"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.au/citations?user=KJGE-kYAAAAJ&hl=en"
   email            : "chen-yang.su@mail.mcgill.ca"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -310,5 +310,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: minima
+theme: jekyll-theme-hacker
+# theme: minima
 # theme: jekyll-theme-merlot
