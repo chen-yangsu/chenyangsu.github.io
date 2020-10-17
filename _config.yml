@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chen-Yang Su"
   avatar           : "Chen-Yang_Su_profile.JPG"
-  bio              : "BSc Computer Science and Biology, McGill University" # research staff at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
+  bio              : "MSc student, McGill University" # research staff at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
   location         : "Montréal, Québec"
   employer         :
   pubmed           : 
@@ -310,6 +310,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-hacker
-# theme: minima
+# theme: jekyll-theme-hacker
+theme: minima
 # theme: jekyll-theme-merlot
