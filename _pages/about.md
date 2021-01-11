@@ -23,7 +23,7 @@ My current interests are in:
 * Inverse reinforcement learning and imitation learning
 * Applications of AI and Machine Learning to improve health care and clinical decision-making
 * Statistical Genetics
-* High-throughout genomics
+* Causal Inference
 * Collective Cell Migration
 
 # News
